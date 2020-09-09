@@ -1,4 +1,4 @@
-#Emacs
+# Emacs
 
 **About this project**
 This project outlines a basic understanding of emacs, including:
